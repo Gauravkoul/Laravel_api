@@ -4,39 +4,40 @@ It is a API developed by using PHP, LARAVEL(framework),HTML,CSS,JS and BOOTSTRAP
 
 ----------------------------------------------------------------For Offline-------------------------------------------------
 
-<p align="center">
-Backend_path: 
-              1. For Signup = localhost:8000/user/signup
-              2. For Login  = localhost:8000/user/login
-              3. For Update = localhost:8000/user/update/{user_id}
+<p>
+Backend_path: <br><br>
+              1. For Signup = localhost:8000/user/signup  <br>
+              2. For Login  = localhost:8000/user/login   <br>
+              3. For Update = localhost:8000/user/update/{user_id} <br>
               
 Frontend_path: localhost:8000/login   
 </p>
 ----------------------------------------------------------------For Online-------------------------------------------------
-<p align="center">
+<br><br><p>
 
 Host_link:  https://sublittoral-pen.000webhostapp.com/login 
-
-Backend_path: 
-              1. For Signup = https://sublittoral-pen.000webhostapp.com/user/signup
-              2. For Login  = https://sublittoral-pen.000webhostapp.com/user/login
-              3. For Update = https://sublittoral-pen.000webhostapp.com/user/update/{user_id}
-              
+<br><br>
+Backend_path: <br>
+              1. For Signup = https://sublittoral-pen.000webhostapp.com/user/signup <br>
+              2. For Login  = https://sublittoral-pen.000webhostapp.com/user/login  <br>
+              3. For Update = https://sublittoral-pen.000webhostapp.com/user/update/{user_id} <br>
+              <br>
 Frontend_path: https://sublittoral-pen.000webhostapp.com/login    
 </p>
 --------------------------------------------------------------Input_Details------------------------------------------------
-<p align="center">
+<br>
+<p>
 
-For Signup:   "name":"YOUR_NAME"
-              "email/phone":"YOUR_EMAIL/PHONE"
-              "password":"YOUR_PASSWORD"
+For Signup:<br><br>   "name":"YOUR_NAME" <br>
+              "email/phone":"YOUR_EMAIL/PHONE" <br>
+              "password":"YOUR_PASSWORD" <br>
        
-For Login:    "login":"YOUR_LOGINID"
-              "PASSWORD":"YOUR_PASSWORD"
+For Login:<br><br>    "login":"YOUR_LOGINID" <br>
+              "PASSWORD":"YOUR_PASSWORD" <br>
               
-For Update:   "name":"UPDATED_NAME"
-              "email/phone":"UPDATED_EMAIL/PHONE"
-              "password":"UPDATED_PASSWORD" 
+For Update:<br><br>   "name":"UPDATED_NAME" <br>
+              "email/phone":"UPDATED_EMAIL/PHONE" <br>
+              "password":"UPDATED_PASSWORD" <br>
               "token":"YOUR_TOKEN_KEY"
 </p>
 
