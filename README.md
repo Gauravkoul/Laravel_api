@@ -4,15 +4,16 @@ It is a API developed by using PHP, LARAVEL(framework),HTML,CSS,JS and BOOTSTRAP
 
 ----------------------------------------------------------------For Offline-------------------------------------------------
 
+<p align="center">
 Backend_path: 
               1. For Signup = localhost:8000/user/signup
               2. For Login  = localhost:8000/user/login
               3. For Update = localhost:8000/user/update/{user_id}
               
 Frontend_path: localhost:8000/login   
-
+</p>
 ----------------------------------------------------------------For Online-------------------------------------------------
-
+<p align="center">
 
 Host_link:  https://sublittoral-pen.000webhostapp.com/login 
 
@@ -22,8 +23,9 @@ Backend_path:
               3. For Update = https://sublittoral-pen.000webhostapp.com/user/update/{user_id}
               
 Frontend_path: https://sublittoral-pen.000webhostapp.com/login    
-
+</p>
 --------------------------------------------------------------Input_Details------------------------------------------------
+<p align="center">
 
 For Signup:   "name":"YOUR_NAME"
               "email/phone":"YOUR_EMAIL/PHONE"
@@ -36,6 +38,6 @@ For Update:   "name":"UPDATED_NAME"
               "email/phone":"UPDATED_EMAIL/PHONE"
               "password":"UPDATED_PASSWORD" 
               "token":"YOUR_TOKEN_KEY"
-
+</p>
 
 
